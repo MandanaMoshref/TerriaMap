@@ -9417,10 +9417,10 @@ terriajs-server@^3.0.1:
     when "^3.7.7"
     yargs "^13.2.4"
 
-terriajs@7.11.14:
-  version "7.11.14"
-  resolved "https://registry.yarnpkg.com/terriajs/-/terriajs-7.11.14.tgz#7bd3fbcf25540e09ab376701fddc172dc884fa7c"
-  integrity sha512-bVZo4QBgFj8B6oOSrEezogOS365OofQliLSxD14AZMD0Kixn1kceSZMmQw477rE+l01seQG2490STZp9oYf5Ag==
+terriajs@7.11.16:
+  version "7.11.16"
+  resolved "https://registry.yarnpkg.com/terriajs/-/terriajs-7.11.16.tgz#cd9b6dbcfc0df766165ac8bff22938de06ea7bee"
+  integrity sha512-md1iiKYw65qiWmm/0L4PcTe7G9VYMFiYsoFnfPQeqMI/DXYfmWG3DFjtGxV3bu5ieXMND5gqk1UQjMfp4aNC1g==
   dependencies:
     "@babel/core" "^7.3.3"
     "@babel/plugin-transform-modules-commonjs" "^7.2.0"
@@ -9471,7 +9471,7 @@ terriajs@7.11.14:
     mustache "^2.2.1"
     mutationobserver-shim "^0.3.1"
     pbf "^3.0.1"
-    pell "git://github.com/TerriaJS/pell#master"
+    pell "git://github.com/TerriaJS/pell.git#master"
     point-in-polygon "^1.0.1"
     proj4 "^2.4.4"
     prop-types "^15.6.0"
@@ -9796,9 +9796,9 @@ typical@^4.0.0:
   integrity sha512-VAH4IvQ7BDFYglMd7BPRDfLgxZZX4O4TFcRDA6EN5X7erNJJq+McIEp8np9aVtxrCJ6qx4GTYVfOWNjcqwZgRw==
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
