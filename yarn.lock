@@ -5845,9 +5845,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.8.0, lodash@~4.17.10:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-driver@^1.2.7:
   version "1.2.7"
@@ -9417,10 +9417,10 @@ terriajs-server@^3.0.1:
     when "^3.7.7"
     yargs "^13.2.4"
 
-terriajs@7.11.14:
-  version "7.11.14"
-  resolved "https://registry.yarnpkg.com/terriajs/-/terriajs-7.11.14.tgz#7bd3fbcf25540e09ab376701fddc172dc884fa7c"
-  integrity sha512-bVZo4QBgFj8B6oOSrEezogOS365OofQliLSxD14AZMD0Kixn1kceSZMmQw477rE+l01seQG2490STZp9oYf5Ag==
+terriajs@7.11.16:
+  version "7.11.16"
+  resolved "https://registry.yarnpkg.com/terriajs/-/terriajs-7.11.16.tgz#cd9b6dbcfc0df766165ac8bff22938de06ea7bee"
+  integrity sha512-md1iiKYw65qiWmm/0L4PcTe7G9VYMFiYsoFnfPQeqMI/DXYfmWG3DFjtGxV3bu5ieXMND5gqk1UQjMfp4aNC1g==
   dependencies:
     "@babel/core" "^7.3.3"
     "@babel/plugin-transform-modules-commonjs" "^7.2.0"
@@ -9471,7 +9471,7 @@ terriajs@7.11.14:
     mustache "^2.2.1"
     mutationobserver-shim "^0.3.1"
     pbf "^3.0.1"
-    pell "git://github.com/TerriaJS/pell#master"
+    pell "git://github.com/TerriaJS/pell.git#master"
     point-in-polygon "^1.0.1"
     proj4 "^2.4.4"
     prop-types "^15.6.0"
